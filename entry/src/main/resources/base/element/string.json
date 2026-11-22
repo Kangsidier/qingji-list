@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "轻记清单：轻量级待办事项管理应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "轻记清单主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "轻记清单"
+    }
+  ]
+}
